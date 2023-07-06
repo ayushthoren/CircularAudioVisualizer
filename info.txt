@@ -1,0 +1,4 @@
+// SOURCES:
+
+// https://math.stackexchange.com/questions/3190235/how-many-equally-spaced-points-are-needed-around-a-circle-of-radius-r-such-that
+// https://math.stackexchange.com/questions/260096/find-the-coordinates-of-a-point-on-a-circle
