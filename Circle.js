@@ -5,7 +5,6 @@ class Circle {
 		this.LCoords=[]
 		this.RCoords=[]
 		this.findPointCoords()
-		// this.points=this.initializePoints()
 	}
 	
 	findPointCoords() {
@@ -69,16 +68,5 @@ class Circle {
 			endShape()
 			pop()
 		}
-		
-		//Joining the top of the left/right sides of the circle cause it was bugging me
-		// push()
-		// beginShape()
-		// stroke(lerpColor(primary,secondary,map(waveform[0],-1,1,0,1)))
-		// // stroke(255)
-		// strokeWeight(4)
-		// vertex(this.LCoords[this.LCoords.length-1]["x"],this.LCoords[this.LCoords.length-1]["y"])
-		// vertex(this.RCoords[this.RCoords.length-1]["x"],this.RCoords[this.RCoords.length-1]["y"])
-		// endShape()
-		// pop()
 	}
 }
